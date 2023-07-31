@@ -1,0 +1,16 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_A9F5472C_8D36_C002_41E0_1A48E257A800.label = الاستقبال(1)
+panorama_A91EB128_8D36_4002_41BB_D5624D69B561.label = طاوله التصميم(1)
+panorama_A913E5E7_8D29_C00E_41A8_F7A4C1BCB4AA.label = غرفة الاجتماعات
+panorama_A9132A99_8D29_C002_41C7_01D527716CDD.label = غرفة غدير
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 1
